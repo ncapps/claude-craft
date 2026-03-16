@@ -1,0 +1,9 @@
+{
+  "name": "class-designer",
+  "version": "1.0.0",
+  "description": "Guides users through gathering functional and nonfunctional requirements, performing textual analysis, and designing application classes with state, instance variables, and methods.",
+  "author": "Nick",
+  "skills": [
+    "skills/class-designer"
+  ]
+}
