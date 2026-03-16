@@ -1,0 +1,6 @@
+{
+  "name": "oop-designer",
+  "version": "0.1.0",
+  "description": "Guides users through disciplined OOP software design: requirements gathering, textual analysis, class design with design principles, design pattern application, and text-based UML output.",
+  "author": "Nick"
+}
