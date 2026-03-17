@@ -1,0 +1,7 @@
+{
+  "name": "epub-reader",
+  "version": "0.1.0",
+  "description": "Parses epub files into markdown chapters. Offers paths to create a Claude Code plugin from the content or produce a structured book summary.",
+  "author": "Nick",
+  "skills": ["skills/epub-reader"]
+}

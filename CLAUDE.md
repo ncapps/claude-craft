@@ -18,6 +18,7 @@ plugins/<plugin-name>/
     <skill-name>/
       SKILL.md           # Skill prompt with YAML frontmatter
     references/          # Optional reference materials used by skills
+  scripts/               # Optional helper scripts invoked by skills via ${CLAUDE_PLUGIN_ROOT}
 ```
 
 ### plugin.json manifest
